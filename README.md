@@ -1,3 +1,7 @@
 # CSS-FLEXBOX-PHOTO-GALLERY
  CSS FLEXBOX PHOTO GALLERY
-<img src="https://raw.githubusercontent.com/CodrinGavan/CSS-FLEXBOX-PHOTO-GALLERY/master/CSS-FLEXBOX-PHOTO-GALLERY.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/CSS-FLEXBOX-PHOTO-GALLERY/">Live Preview</a>
+ </li>
+ </ul>
